@@ -1,0 +1,11 @@
+{
+  "name": "algorithms-and-data-strucutres",
+  "version": "1.0.0",
+  "description": "algorithms and data structures with ThePrimeagen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksandra Motor",
+  "license": "ISC"
+}
